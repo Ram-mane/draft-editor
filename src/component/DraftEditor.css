@@ -1,0 +1,27 @@
+/* FILEPATH: /c:/Users/ramma/OneDrive/Desktop/Fullstack Project(React+SpringBoot)/draft-text-editor/src/component/DraftEditor.css */
+
+/* Add your CSS styles here */
+
+
+.myDraftEditor{
+    width: 100%;
+    height: 100%;
+    border: 1px solid #000;
+    padding: 50px;
+    box-sizing: border-box;
+    overflow: auto;
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000;
+    font-family: 'Noto Sans KR', sans-serif;
+    outline: none;
+    resize: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 40px;
+    margin-top: 70px;
+}
